@@ -1,5 +1,5 @@
 # Clothing-Identification-Using-Deep-Learning
-Clothing Identification Using Deep Learning
+Clothing Identification Using Deep Learning. 
 
 Fashion MNIST is a standard dataset used in Deep Learning and Computer Vision, containing 70,000 images from 10 different classes.  
 
